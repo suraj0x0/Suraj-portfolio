@@ -1,3 +1,5 @@
+import { PortfolioShell } from "@/components/portfolio-shell";
+
 export default function Page() {
-  return <main className="min-h-screen" />;
+  return <PortfolioShell />;
 }
